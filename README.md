@@ -8,7 +8,7 @@
 
 **StreetDreamer** a pipeline facilitates the generation of infinite 3D autonomous driving scenes conditioned on a single image of a driving log sequence. Contrary to prior methodologies that learn to generate the distribution of 3D latent representations which are subse-quently decoded or rendered—approaches that incur significant computational expense—our method strategically divides the ill-posed problem of unbounded 3D street scene generation into two distinct phases: 3D-aware novel view generation and score-guided 3D reconstruction.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/VIDEO_ID
 
 ## Features
 - [x] Realistic street scene generation
