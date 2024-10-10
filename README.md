@@ -10,6 +10,14 @@
 
 Weihao Gu<sup>2</sup> | Yuejia Xu<sup>4</sup> | Jingwei Zhao<sup>3</sup> | Kangliang Chen<sup>2</sup> | Xiang He<sup>2</sup> | Hao Zhao<sup>$\dagger$ 1</sup>
 
+<sup>1</sup>: [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/index.htm)
+<sup>2</sup>: [Haomo.ai](Haomo.ai)
+<sup>3</sup>: [Xiaomi](https://ir.mi.com/zh-hans/corporate-information/company-profile)
+<sup>4</sup> [Beijing University of Civil Engineering and Architecture](https://english.bucea.edu.cn)
+<sup>$\ddagger$</sup>: Work done during internship at Haomo.AI
+<sup>*</sup>: Indicates Equal Contribution
+<sup>$\dagger$</sup>: Indicates Corresponding Author
+
 ## Introduction
 
 **StreetDreamer** a pipeline facilitates the generation of infinite 3D autonomous driving scenes conditioned on a single image of a driving log sequence. Contrary to prior methodologies that learn to generate the distribution of 3D latent representations which are subse-quently decoded or rendered—approaches that incur significant computational expense—our method strategically divides the ill-posed problem of unbounded 3D street scene generation into two distinct phases: 3D-aware novel view generation and score-guided 3D reconstruction.
