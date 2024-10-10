@@ -6,7 +6,7 @@
 
 ## Authors
 
-**[Sirui Xie](SiruiXie.github.io)<sup>1*</sup>** ｜ Huanang-Gao<sup>$\ddagger$ 1,2*</sup> | Dingwei Tan<sup>1</sup> | Junyuna Ma<sup>1<sup> | Minju Gao<sup>1</sup>
+**[Sirui Xie](SiruiXie.github.io)<sup>1*</sup>** ｜ Huanang-Gao<sup>$\ddagger$ 1,2*</sup> | Dingwei Tan<sup>1</sup> | Junyuna Ma<sup>1</sup> | Minju Gao<sup>1</sup>
 
 Weihao Gu<sup>2</sup> | Yuejia Xu<sup>4</sup> | Jingwei Zhao<sup>3</sup> | Kangliang Chen<sup>2</sup> | Xiang He<sup>2</sup> | Hao Zhao<sup>$\dagger$ 1</sup>
 
