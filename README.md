@@ -4,6 +4,12 @@
 
 ![OurPipeline](./resources/main_pic.png)
 
+## Authors
+
+**[Sirui Xie](SiruiXie.github.io)<sup>1*</sup>** ｜ Huanang-Gao<sup>$\ddagger$ 1,2*</sup> | Dingwei Tan<sup>1</sup> | Junyuna Ma<sup>1<sup> | Minju Gao<sup>1</sup>
+
+Weihao Gu<sup>2</sup> | Yuejia Xu<sup>4</sup> | Jingwei Zhao<sup>3</sup> | Kangliang Chen<sup>2</sup> | Xiang He<sup>2</sup> | Hao Zhao<sup>$\dagger$ 1</sup>
+
 ## Introduction
 
 **StreetDreamer** a pipeline facilitates the generation of infinite 3D autonomous driving scenes conditioned on a single image of a driving log sequence. Contrary to prior methodologies that learn to generate the distribution of 3D latent representations which are subse-quently decoded or rendered—approaches that incur significant computational expense—our method strategically divides the ill-posed problem of unbounded 3D street scene generation into two distinct phases: 3D-aware novel view generation and score-guided 3D reconstruction.
